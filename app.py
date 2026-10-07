@@ -8,7 +8,7 @@ import pandas as pd
 # Sayfa Yapılandırması
 st.set_page_config(page_title="İnşaat Süre Tahmin Aracı", layout="centered")
 st.title("🏗️ İnşaat Süre Tahmin Aracı")
-st.write("Gerekli parametreleri girerek projenizin tahmini inşaat süresini hesaplayabilirsiniz.")
+st.write("Gerekli parametreleri girerek projenizin tahmini inşaat süresini hesaplayabilirsiniz 2023232033 DIYAR COBAN .")
 
 # Hata Önleyici Otomatik Çıkartma ve Yol Düzeltme
 if os.path.exists('models.zip') and not os.path.exists('models'):
