@@ -1,0 +1,10 @@
+{
+    "alan_m2_min": 307.0,
+    "alan_m2_max": 3497.0,
+    "kat_sayisi_min": 2.0,
+    "kat_sayisi_max": 15.0,
+    "r2_basit": 0.821,
+    "mae_basit": 2.37,
+    "r2_gelismis": 0.875,
+    "mae_gelismis": 1.98
+}
